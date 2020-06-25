@@ -1,0 +1,16 @@
+autopep8==1.5.3
+beautifulsoup4==4.9.1
+certifi==2020.4.5.2
+chardet==3.0.4
+html5lib==1.0.1
+idna==2.9
+mysql-connector-python==8.0.20
+protobuf==3.12.2
+pycodestyle==2.6.0
+requests==2.24.0
+selenium==3.141.0
+six==1.15.0
+soupsieve==2.0.1
+toml==0.10.1
+urllib3==1.25.9
+webencodings==0.5.1
